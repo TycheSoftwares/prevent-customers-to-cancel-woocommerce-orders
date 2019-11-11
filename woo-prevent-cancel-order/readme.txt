@@ -1,11 +1,12 @@
-
+﻿
 === Prevent Customers To Cancel WooCommerce Orders ===
 Contributors: tychesoftwares, ashokrane
 Tags: woocommerce cancel order
 Author URI: https://www.tychesoftwares.com/
 Requires at least: 1.3
-Tested up to: 4.7.4
+Tested up to: 5.0.1
 Stable tag: trunk
+Requires PHP: 5.6
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 Donate link: https://www.paypal.me/TycheSoftwares
@@ -20,8 +21,6 @@ The plugin also prevents an order from being cancelled directly via the URL.
 
 The plugin doesn't have any settings. When activated, it will prevent all roles except the administrator to cancel any WooCommerce orders.
 
->On account of Halloween, all premium plugins on our site are currently available at a 30% discount. You can use the coupon code HALLOWEEN2017 on the checkout page. [Go for it!](https://www.tychesoftwares.com/premium-plugins/?utm_source=wprepo&utm_medium=halloween&utm_campaign=PreventCustomersToCancel)
-
 **Some of our Pro plugins:**
 
 1. **[Booking & Appointment Plugin for WooCommerce](https://www.tychesoftwares.com/store/premium-plugins/woocommerce-booking-plugin/?utm_source=wprepo&utm_medium=link&utm_campaign=PreventCancelOrdersLite "Booking & Appointment Plugin for WooCommerce")**
@@ -34,31 +33,43 @@ The plugin doesn't have any settings. When activated, it will prevent all roles 
 
 5. **[Deposits For WooCommerce](https://www.tychesoftwares.com/store/premium-plugins/deposits-for-woocommerce/?utm_source=wprepo&utm_medium=link&utm_campaign=PreventCancelOrdersLite "Deposits For WooCommerce")**
 
+6. **[Payment Gateway Based Fees and Discounts for WooCommerce](https://www.tychesoftwares.com/store/premium-PreventCancelOrdersLite/payment-gateway-based-fees-and-discounts-for-woocommerce-plugin/?utm_source=wprepo&utm_medium=link&utm_campaign=WCDeliveryNotes "Payment Gateway Based Fees and Discounts for WooCommerce")**
+
+7. **[Custom Order Status for WooCommerce](https://www.tychesoftwares.com/store/premium-plugins/custom-order-status-woocommerce/?utm_source=wprepo&utm_medium=link&utm_campaign=PreventCancelOrdersLite "Custom Order Status for WooCommerce")**
+
+8. **[Custom Order Numbers for WooCommerce](https://www.tychesoftwares.com/store/premium-plugins/custom-order-numbers-woocommerce/?utm_source=wprepo&utm_medium=link&utm_campaign=PreventCancelOrdersLite "Custom Order Numbers for WooCommerce")**
+
+9. **[Product Input Fields for WooCommerce](https://www.tychesoftwares.com/store/premium-plugins/product-input-fields-for-woocommerce/?utm_source=wprepo&utm_medium=link&utm_campaign=PreventCancelOrdersLite "Product Input Fields for WooCommerce")**
+
+10. **[Call for Price for WooCommerce](https://www.tychesoftwares.com/store/premium-plugins/woocommerce-call-for-price-plugin/?utm_source=wprepo&utm_medium=link&utm_campaign=PreventCancelOrdersLite "Call for Price for WooCommerce")**
+
+11. **[Price based on User Role for WooCommerce](https://www.tychesoftwares.com/store/premium-plugins/price-user-role-woocommerce/?utm_source=wprepo&utm_medium=link&utm_campaign=PreventCancelOrdersLite "Price based on User Role for WooCommerce")**
+
+12. **[Currency per Product for WooCommerce](https://www.tychesoftwares.com/store/premium-plugins/currency-per-product-for-woocommerce/?utm_source=wprepo&utm_medium=link&utm_campaign=PreventCancelOrdersLite "Currency per Product for WooCommerce")**
+
 **Some of our other free plugins:**
 
-1. **[Order Delivery Date for WooCommerce - Lite](https://wordpress.org/plugins/order-delivery-date-for-woocommerce/ "Order Delivery Date for WooCommerce - Lite")**
+1. **[Abandoned Cart for WooCommerce](https://wordpress.org/plugins/woocommerce-abandoned-cart/ "Abandoned Cart for WooCommerce")**
 
-2. **[Abandoned Cart for WooCommerce](https://wordpress.org/plugins/woocommerce-abandoned-cart/ "Abandoned Cart for WooCommerce")**
+2. **[Order Delivery Date for WooCommerce - Lite](https://wordpress.org/plugins/order-delivery-date-for-woocommerce/ "Order Delivery Date for WooCommerce - Lite")**
 
-3. **[Product Delivery Date for WooCommerce – Lite](https://wordpress.org/plugins/product-delivery-date-for-woocommerce-lite/ "Product Delivery Date for WooCommerce – Lite")**
+3. **[Product Delivery Date for WooCommerce - Lite](https://wordpress.org/plugins/product-delivery-date-for-woocommerce-lite/ "Product Delivery Date for WooCommerce")**
 
 4. **[WooCommerce Print Invoice & Delivery Note](https://wordpress.org/plugins/woocommerce-delivery-notes/ "WooCommerce Print Invoice & Delivery Note")**
 
-5. **[Order Delivery Date for WP e-Commerce](https://wordpress.org/plugins/order-delivery-date/ "Order Delivery Date for WP e-Commerce")**
+5. **[Payment Gateway Based Fees and Discounts for WooCommerce](https://wordpress.org/plugins/checkout-fees-for-woocommerce/ "Payment Gateway Based Fees and Discounts for WooCommerce")**
 
-6. **[WooCommerce Coupons by Categories and Tags](https://wordpress.org/plugins/woo-coupons-by-categories-and-tags/ "WooCommerce Coupons by Categories and Tags")**
+6. **[Custom Order Status for WooCommerce](https://wordpress.org/plugins/custom-order-statuses-woocommerce/ "Custom Order Status for WooCommerce")**
 
-7. **[Arconix FAQ](https://wordpress.org/plugins/arconix-faq/ "Arconix FAQ")**
+7. **[Custom Order Numbers for WooCommerce](https://wordpress.org/plugins/custom-order-numbers-for-woocommerce/ "Custom Order Numbers for WooCommerce")**
 
-8. **[Arconix Shortcodes](https://wordpress.org/plugins/arconix-shortcodes/ "Arconix Shortcodes")**
+8. **[Product Input Fields for WooCommerce](https://wordpress.org/plugins/product-input-fields-for-woocommerce/ "Product Input Fields for WooCommerce")**
 
-9. **[Arconix Flexslider](https://wordpress.org/plugins/arconix-flexslider/ "Arconix Flexslider")**
+9. **[Call for Price for WooCommerce](https://wordpress.org/plugins/woocommerce-call-for-price/ "Call for Price for WooCommerce")**
 
-10. **[Arconix Portfolio](https://wordpress.org/plugins/arconix-portfolio/ "Arconix Portfolio")**
+10. **[Price based on User Role for WooCommerce](https://wordpress.org/plugins/price-by-user-role-for-woocommerce/ "Price based on User Role for WooCommerce")**
 
-11. **[Arconix Testimonials](https://wordpress.org/plugins/arconix-testimonials/ "Arconix Testimonials")**
-
-12. **[Export WordPress Menus](https://wordpress.org/plugins/wp-export-menus/ "Export WordPress Menus")**
+11. **[Currency per Product for WooCommerce](https://wordpress.org/plugins/currency-per-product-for-woocommerce/ "Currency per Product for WooCommerce")**
 
 == Installation ==
 
