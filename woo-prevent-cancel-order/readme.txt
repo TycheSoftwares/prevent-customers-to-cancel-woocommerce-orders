@@ -121,6 +121,9 @@ Currently there is no Pro version of this plugin.
 
 == Changelog ==
 
+= 1.2 (16.11.2019) =
+* Updated plugin as per WPCS standards.
+
 = 1.1 (04.05.2017) =
 * Changed priority of function in the plugin so it executes after other plugins have done their actions.
 
