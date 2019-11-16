@@ -4,7 +4,7 @@ Contributors: tychesoftwares, ashokrane
 Tags: woocommerce cancel order
 Author URI: https://www.tychesoftwares.com/
 Requires at least: 1.3
-Tested up to: 5.0.1
+Tested up to: 5.3
 Stable tag: trunk
 Requires PHP: 5.6
 License: GPLv2 or later
