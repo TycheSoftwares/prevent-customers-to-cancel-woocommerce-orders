@@ -9,7 +9,7 @@
  * Contributor: Tyche Softwares, http://www.tychesoftwares.com/
  *
  * WC requires at least: 3.0
- * WC tested up to: 3.8
+ * WC tested up to: 5.5
  *
  * @package woo-prevent-cancel-order
  */
